@@ -2,93 +2,114 @@
 
 I build software around real-world organizational problems.
 
-Over the last several years I've designed and maintained production platforms for ministries, communities, businesses, and membership organizations. My work spans relationship ecosystems, ministry operating systems, finance platforms, and community networks serving real users across Africa and beyond.
+Over the last several years I've designed, built, deployed, and maintained production platforms serving ministries, communities, businesses, and membership organizations. My work spans relationship ecosystems, ministry operating systems, finance platforms, and community networks serving real users across Africa and beyond.
 
 Most of the products I build begin with a practical need rather than a technical experiment.
 
 ---
 
-## Featured Production Platforms
+# Featured Production Platforms
 
-### ❤️ Kisses & Huggs Club
+## ❤️ Kisses & Huggs Club
 
 https://kissesandhuggs.com
 
-A relationship-growth ecosystem for singles and couples featuring:
+A relationship-growth ecosystem for singles and couples.
 
-* Membership and subscription systems
+Key systems include:
+
+* Membership and subscription management
 * Matchmaking and profile discovery
 * Counseling workflows
 * Courses and digital learning
-* Devotional and content delivery
+* Devotional delivery systems
 * Referral and affiliate systems
-* Community engagement tools
+* Community engagement features
 * Premium access management
 
 **55+ custom plugins and custom platform architecture.**
 
 ---
 
-### ⛪ PastorOS / SeeMyChurch
+## ⛪ PastorOS / SeeMyChurch
 
 https://seemychurch.org
 
-A ministry operating system built for churches and ministry networks featuring:
+A ministry operating system built to help churches and ministry networks manage operations, content, finances, engagement, and growth.
+
+Key systems include:
 
 * Financial management and reporting
-* Branch oversight and administration
-* Ministry discovery and public directories
-* Content publishing systems
+* Branch administration and oversight
+* Ministry discovery engine
+* Public ministry directories
 * AI-assisted ministry tools
 * Bible study and research tools
+* Content publishing systems
 * Member and workflow management
 
-**20+ custom plugins and custom platform architecture.**
+**Custom modular architecture powering finance, ministry operations, discovery systems, AI tools, and Bible study resources.**
 
 ---
 
-### 💼 VaultCore
+## 💼 VaultCore
 
 https://vaultcore.space
 
-A modular finance platform designed for African businesses, families, schools, and organizations.
+A modular finance platform designed for African businesses, schools, families, churches, and organizations.
 
-Key capabilities include:
+Key systems include:
 
 * Expense tracking
 * Approval workflows
-* Multi-currency support
 * Financial reporting
 * School finance management
 * Family finance management
+* Multi-currency support
 * Business accounting workflows
+* Budgeting and accountability tools
 
 **15+ custom plugins and custom platform architecture.**
 
 ---
 
-### 👥 Men on the Move
+## 👥 Men on the Move
 
 https://menonthemove.app
 
-A digital ecosystem built to help men grow, connect, lead, learn, and engage through a unified platform.
+A digital ecosystem built to help men grow, connect, learn, lead, and engage through a unified community platform.
 
-Modules include:
+Key systems include:
 
 * Hood Community social network
 * Hood Market marketplace
-* Scholarships & opportunities hub
-* Lifestyle and leadership content
+* Scholarships and opportunities hub
+* Lifestyle and leadership content systems
 * Football engagement hub
-* Event and conference systems
-* Sponsorship management
-* Notifications and engagement systems
+* Event and conference management
+* Sponsorship and partnership workflows
+* Notifications and member engagement systems
 
-**35+ custom plugins and multifunctional community architecture.**
+**35+ custom plugins and multifunctional community platform architecture.**
 
 ---
 
-## How I Build
+# Engineering Focus
+
+* SaaS Architecture
+* WordPress Product Engineering
+* Membership Platforms
+* Community Ecosystems
+* Financial Systems
+* Multi-Tenant Applications
+* Subscription & Billing Workflows
+* AI-Assisted Product Experiences
+* Workflow Automation
+* Long-Term Product Ownership
+
+---
+
+# How I Build
 
 * Start with user workflows before technical architecture.
 * Prefer modular systems over feature accumulation.
@@ -99,18 +120,20 @@ Modules include:
 
 ---
 
-## Current Focus
+# Current Focus
 
-* SaaS architecture
-* Membership and community platforms
-* Finance systems for African organizations
-* AI-assisted product workflows
-* WordPress-based software products
-* Product engineering and long-term platform ownership
+* Community platforms
+* Membership ecosystems
+* Ministry operating systems
+* Finance software
+* AI-assisted workflows
+* Product engineering
+* Platform scalability
+* Long-term software ownership
 
 ---
 
-## Selected Production Platforms
+# Selected Production Platforms
 
 🌐 Portfolio
 https://dunamiscodevisuals.com
@@ -129,33 +152,27 @@ https://menonthemove.app
 
 ---
 
-## Philosophy
+# Philosophy
 
 I enjoy building software that solves meaningful problems and remains useful long after launch.
 
 For me, engineering is not only about shipping features. It is about creating systems that are maintainable, understandable, and capable of growing with the people who use them.
 
----
-
-## Repositories
-
-### wp-plugin-boilerplate
-
-Opinionated starter architecture for production WordPress plugins.
-
-### multi-tenant-query-helper
-
-Utilities and patterns for tenant isolation in WordPress-based SaaS systems.
-
-### devdunamis
-
-My GitHub profile repository.
+Most of my work has involved owning products from idea to deployment and beyond. That experience has taught me to value clarity, simplicity, reliability, and long-term sustainability over technical novelty.
 
 ---
 
-## Links
+# Links
 
 🌐 Portfolio: https://dunamiscodevisuals.com
+
+❤️ Kisses & Huggs Club: https://kissesandhuggs.com
+
+⛪ PastorOS / SeeMyChurch: https://seemychurch.org
+
+💼 VaultCore: https://vaultcore.space
+
+👥 Men on the Move: https://menonthemove.app
 
 📧 Email: [dev@dunamiscodevisuals.com](mailto:dev@dunamiscodevisuals.com)
 
