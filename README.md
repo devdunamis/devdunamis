@@ -1,4 +1,5 @@
 # Hi, I'm Dunamis Olatunde 👋
+Product Engineer | SaaS Builder | Creator of Kisses & Huggs Club, PastorOS, VaultCore & Men on the Move
 
 I build software around real-world organizational problems.
 
@@ -77,18 +78,21 @@ Key systems include:
 
 https://menonthemove.app
 
-A digital ecosystem built to help men grow, connect, learn, lead, and engage through a unified community platform.
+A community operating system designed to help men grow, connect, lead, learn, trade, and engage through a unified platform.
 
 Key systems include:
 
-* Hood Community social network
-* Hood Market marketplace
-* Scholarships and opportunities hub
-* Lifestyle and leadership content systems
-* Football engagement hub
-* Event and conference management
-* Sponsorship and partnership workflows
-* Notifications and member engagement systems
+- Hood Community social network
+- Hood Market marketplace
+- Scholarships & opportunities hub
+- Lifestyle and leadership content
+- Football engagement ecosystem
+- Event and conference management
+- Sponsorship workflows
+- Missions and growth pathways
+- Member engagement and notification systems
+
+Production community ecosystem serving an active men's movement.
 
 **35+ custom plugins and multifunctional community platform architecture.**
 
@@ -197,3 +201,5 @@ Most of my work has involved owning products from idea to deployment and beyond.
 💼 LinkedIn: https://www.linkedin.com/in/pastordunamis/
 
 📍 Ibadan, Nigeria
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdunamis&show_icons=true)
