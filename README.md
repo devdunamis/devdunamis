@@ -45,7 +45,7 @@ A ministry operating system built for churches and ministry networks featuring:
 * Bible study and research tools
 * Member and workflow management
 
-**10+ custom plugins and custom platform architecture.**
+**20+ custom plugins and custom platform architecture.**
 
 ---
 
