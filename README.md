@@ -1,43 +1,166 @@
 # Hi, I'm Dunamis Olatunde 👋
 
-I'm a solo WordPress engineer based in Ibadan, Nigeria, building production SaaS platforms for African and global clients.
+I'm a software engineer and product builder from Ibadan, Nigeria.
 
-In the past year I've shipped three live platforms — solo, end-to-end, on shared hosting:
+Over the last several years I've designed, built, deployed, and maintained production platforms serving ministries, communities, businesses, and membership organizations.
 
-🏛 **[ChurchVault](https://dunamiscodevisuals.com/work/churchvault.html)** — multi-tenant church finance SaaS · multi-currency (₦/$/£) · recurring Paystack billing · live with paying customers
+My work spans relationship ecosystems, ministry operating systems, finance platforms, and community networks — with a focus on solving real operational problems through software.
 
-🌍 **[Vault Core](https://dunamiscodevisuals.com/work/vaultcore.html)** — four-module fintech platform · 2-person expense approval at the database layer · 8-country tax engine · built for the African market
-
-💕 **[Kisses & Huggs Club](https://dunamiscodevisuals.com/work/khc.html)** — faith-based community platform · 3-stream affiliate system · currency-aware Paystack routing · launched May 2026
-
-Together: **53+ custom plugins, ~22,000 lines of solo-authored PHP**, multi-tenant architectures, idempotent webhooks, Paystack-native subscriptions in NGN and USD.
+Most of the products I build begin with a practical need rather than a technical experiment.
 
 ---
 
-### How I build
+## Featured Production Platforms
 
-🔧 **Native WordPress APIs end-to-end** · `$wpdb` prepared statements, nonces, capability checks, WP-Cron — no boilerplate frameworks, no off-the-shelf membership plugins
+### ❤️ Kisses & Huggs Club
 
-⚡ **Database-first discipline** · idempotency lives in composite UNIQUE keys, not in application locks
+https://kissesandhuggs.com
 
-🎯 **No build pipelines** · no Composer, no npm, no Webpack — every change is a file edit; the platform will run in three years without dependency rot
+A relationship-growth ecosystem for singles and couples featuring:
 
-🛡️ **Security by default** · HMAC-verified webhooks, capability gates everywhere, defensive permission checks at every read and write
+* Membership and subscription systems
+* Matchmaking and profile discovery
+* Counseling workflows
+* Courses and digital learning
+* Devotional and content delivery
+* Referral and affiliate systems
+* Community engagement tools
+* Premium access management
+
+**55+ custom plugins and custom platform architecture.**
 
 ---
 
-### Repositories here
+### ⛪ PastorOS / SeeMyChurch
 
-- **[wp-plugin-boilerplate](https://github.com/devdunamis/wp-plugin-boilerplate)** — opinionated starter for serious plugins. Schema migrations, prepared statements, idempotent webhooks, capability checks. Distilled from production work.
+https://seemychurch.org
 
-- **[multi-tenant-query-helper](https://github.com/devdunamis/multi-tenant-query-helper)** — the discipline-as-code pattern I use for tenant isolation in WordPress: resolve the allowed tenant IDs once, then filter every query through a prepared `IN` clause.
+A ministry operating system built for churches and ministry networks featuring:
+
+* Financial management and reporting
+* Branch oversight and administration
+* Ministry discovery and public directories
+* Content publishing systems
+* AI-assisted ministry tools
+* Bible study and research tools
+* Member and workflow management
+
+**10+ custom plugins and custom platform architecture.**
 
 ---
 
-### Available for senior engagements
+### 💼 VaultCore
 
-Custom WordPress plugins. SaaS architectures with Paystack billing. Multi-tenant platforms. Custom REST APIs with HMAC verification. Performance and database optimization. WordPress security incidents (malware removal, hacked-site recovery, hardening) and migration/rescue work.
+https://vaultcore.space
 
-📂 **Portfolio & case studies:** [dunamiscodevisuals.com](https://dunamiscodevisuals.com)
-📧 **Email:** [dev@dunamiscodevisuals.com](mailto:dev@dunamiscodevisuals.com)
-💼 **LinkedIn:** [linkedin.com/in/pastordunamis](https://www.linkedin.com/in/pastordunamis/)
+A modular finance platform designed for African businesses, families, schools, and organizations.
+
+Key capabilities include:
+
+* Expense tracking
+* Approval workflows
+* Multi-currency support
+* Financial reporting
+* School finance management
+* Family finance management
+* Business accounting workflows
+
+**15+ custom plugins and custom platform architecture.**
+
+---
+
+### 👥 Men on the Move
+
+https://menonthemove.app
+
+A digital ecosystem built to help men grow, connect, lead, learn, and engage through a unified platform.
+
+Modules include:
+
+* Hood Community social network
+* Hood Market marketplace
+* Scholarships & opportunities hub
+* Lifestyle and leadership content
+* Football engagement hub
+* Event and conference systems
+* Sponsorship management
+* Notifications and engagement systems
+
+**35+ custom plugins and multifunctional community architecture.**
+
+---
+
+## How I Build
+
+* Start with user workflows before technical architecture.
+* Prefer modular systems over feature accumulation.
+* Design for long-term ownership and maintainability.
+* Build reusable components that can evolve across products.
+* Use AI to accelerate exploration and prototyping while keeping architecture and product decisions human-led.
+* Optimize for clarity, reliability, and user value over technical novelty.
+
+---
+
+## Current Focus
+
+* SaaS architecture
+* Membership and community platforms
+* Finance systems for African organizations
+* AI-assisted product workflows
+* WordPress-based software products
+* Product engineering and long-term platform ownership
+
+---
+
+## Selected Production Platforms
+
+🌐 Portfolio
+https://dunamiscodevisuals.com
+
+❤️ Kisses & Huggs Club
+https://kissesandhuggs.com
+
+⛪ PastorOS / SeeMyChurch
+https://seemychurch.org
+
+💼 VaultCore
+https://vaultcore.space
+
+👥 Men on the Move
+https://menonthemove.app
+
+---
+
+## Philosophy
+
+I enjoy building software that solves meaningful problems and remains useful long after launch.
+
+For me, engineering is not only about shipping features. It is about creating systems that are maintainable, understandable, and capable of growing with the people who use them.
+
+---
+
+## Repositories
+
+### wp-plugin-boilerplate
+
+Opinionated starter architecture for production WordPress plugins.
+
+### multi-tenant-query-helper
+
+Utilities and patterns for tenant isolation in WordPress-based SaaS systems.
+
+### devdunamis
+
+My GitHub profile repository.
+
+---
+
+## Links
+
+🌐 Portfolio: https://dunamiscodevisuals.com
+
+📧 Email: [dev@dunamiscodevisuals.com](mailto:dev@dunamiscodevisuals.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/pastordunamis/
+
+📍 Ibadan, Nigeria
