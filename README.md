@@ -94,6 +94,24 @@ Key systems include:
 
 ---
 
+# Platform Screenshots
+
+## ❤️ Kisses & Huggs Club
+
+![Kisses & Huggs Club](khc-preview.png)
+
+## ⛪ PastorOS / SeeMyChurch
+
+![PastorOS](seemychurch-preview.png)
+
+## 💼 VaultCore
+
+![VaultCore](vaultcore-preview.png)
+
+## 👥 Men on the Move
+
+![Men on the Move](menonthemove-preview.png)
+
 # Engineering Focus
 
 * SaaS Architecture
