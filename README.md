@@ -1,10 +1,8 @@
 # Hi, I'm Dunamis Olatunde 👋
 
-I'm a software engineer and product builder from Ibadan, Nigeria.
+I build software around real-world organizational problems.
 
-Over the last several years I've designed, built, deployed, and maintained production platforms serving ministries, communities, businesses, and membership organizations.
-
-My work spans relationship ecosystems, ministry operating systems, finance platforms, and community networks — with a focus on solving real operational problems through software.
+Over the last several years I've designed and maintained production platforms for ministries, communities, businesses, and membership organizations. My work spans relationship ecosystems, ministry operating systems, finance platforms, and community networks serving real users across Africa and beyond.
 
 Most of the products I build begin with a practical need rather than a technical experiment.
 
